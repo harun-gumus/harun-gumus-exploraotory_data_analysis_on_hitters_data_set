@@ -23,3 +23,5 @@ A data frame with 322 observations of major league players on the following 20 v
 - **Errors**: Number of errors in 1986
 - **Salary**: 1987 annual salary on opening day in thousands of dollars
 - **NewLeague**: A factor with levels A and N indicating player’s league at the beginning of 1987
+
+The main goal of the dataset was to analyze the players' 1986 performance and career statistics, examining how these influenced their salaries. This analysis was presented during the **1988 American Statistical Association (ASA) Graphics Section Poster Session** and garnered significant attention.
